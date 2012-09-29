@@ -22,5 +22,8 @@ Then answer:
 
 this will configure yeoman with the latest libraries needed for this project.
 
-Now start the server - this will start the server and open your new project on port 3501 in your default browser
+Start the Server
+=============
     yeoman server
+
+The command above will start the server and open your new project on port 3501 in your default browser.
