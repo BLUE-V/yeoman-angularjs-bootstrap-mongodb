@@ -1,4 +1,4 @@
-Welcome to the GET UP AND GO project
+Welcome to the GET UP AND YO project
 =============
 This project includes the following components:
 *   Yeoman.io
